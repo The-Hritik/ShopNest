@@ -29,10 +29,3 @@ If you would like to contribute to the development of ShopNest, follow these ste
 4. Make your changes and commit them.
 5. Push your changes to your forked repository.
 6. Create a pull request to merge your changes into the main project.
-
-## Project Structure
-
-- `src/main/java`: Contains Java source code.
-- `src/main/webapp`: Contains HTML, CSS, and JavaScript files.
-- `src/main/resources`: Contains configuration files.
-- `WebContent/WEB-INF`: Contains web.xml and other configuration files.
